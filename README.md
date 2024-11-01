@@ -8,7 +8,7 @@
 
 Voici un aperçu de mes contributions récentes :
 
-![Contributions](https://github.com/boboPrem1/github-readme-stats/blob/master/src/images/overview.svg)
+![Graphique de contributions](https://github.com/boboPrem1/github-readme-stats/raw/master/src/images/overview.svg)
 
 ## Projets
 
