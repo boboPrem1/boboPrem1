@@ -1,16 +1,34 @@
 ## Hi there 👋
 
-<!--
-**boboPrem1/boboPrem1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Mon Profil GitHub
 
-Here are some ideas to get you started:
+![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=boboPrem1&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Mes Contributions
+
+Voici un aperçu de mes contributions récentes :
+
+![Contributions](https://github.com/boboPrem1/github-readme-stats/blob/master/src/images/overview.svg)
+
+## Projets
+
+### [Nom du projet 1](URL_DU_PROJET)
+- **Description :** Une brève description.
+- **Technologies :** [Liste des technologies]
+
+### [Nom du projet 2](URL_DU_PROJET)
+- **Description :** Une brève description.
+- **Technologies :** [Liste des technologies]
+
+## Langages
+
+![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=boboPrem1&layout=compact&theme=radical)
+
+## Contact
+
+- 📫 [Votre Email](mailto:jamouzougan@gmail.com)
+- 🔗 [LinkedIn]([https://www.linkedin.com/in/votreprofil](https://www.linkedin.com/in/kangni-juvanio-amouzougan-709918189/))
+
+---
+
+Merci de visiter mon profil !
