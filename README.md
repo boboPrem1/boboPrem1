@@ -27,8 +27,8 @@ Voici un aperçu de mes contributions récentes :
 ## Contact
 
 - 📫 [Votre Email](mailto:jamouzougan@gmail.com)
-- 🔗 [LinkedIn]([https://www.linkedin.com/in/votreprofil](https://www.linkedin.com/in/kangni-juvanio-amouzougan-709918189/))
+- 🔗 [LinkedIn](https://www.linkedin.com/in/votreprofil](https://www.linkedin.com/in/kangni-juvanio-amouzougan-709918189/)
 
 ---
-
+[![committers.top badge](https://user-badge.committers.top/togo/boboPrem1.svg)](https://user-badge.committers.top/togo/boboPrem1)
 Merci de visiter mon profil !
